@@ -9,7 +9,7 @@ body {
   margin-right: auto;
 }
 
-figcaption {
+#figcaption p{
   margin-left: auto;
   margin-right: auto;
 }
