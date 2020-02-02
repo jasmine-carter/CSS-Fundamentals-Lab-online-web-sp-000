@@ -15,6 +15,7 @@ body {
   margin: 0;
   background-color:#d3d3d3;
   float: none;
+  position: fixed;
   left: 50%
 }
 
