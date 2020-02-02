@@ -22,8 +22,6 @@ body {
 
 #featured-property p {
   word-wrap: break-word;
-  margin-left: auto;
-  margin-right: auto;
   width: 800px;
   content: center;
 }
