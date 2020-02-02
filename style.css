@@ -41,5 +41,8 @@ h1 {
   display: block;
   text-align: center;
   background: red;
+}
 
+#details div {
+  float: left;
 }
