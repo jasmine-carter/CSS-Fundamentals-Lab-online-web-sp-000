@@ -16,9 +16,7 @@ body {
 }
 
 #myFigCaption {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  content: center;
 }
 
 #featured-property p {
