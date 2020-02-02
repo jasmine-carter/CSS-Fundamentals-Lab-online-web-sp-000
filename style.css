@@ -39,6 +39,5 @@ h1 {
 
 #details div {
   display: block;
-  margin: 0 auto;
-  padding: 3px;
+  float: left;
 }
