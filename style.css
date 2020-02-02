@@ -39,7 +39,7 @@ h1 {
 
 #details div {
   display: block;
-  float: left;
+  float: center;
   text-align: center;
   background: red;
 
