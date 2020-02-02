@@ -40,5 +40,5 @@ h1 {
 #details div {
   display: block;
   float: left;
-  margin: auto;
+  margin: 0 auto;
 }
