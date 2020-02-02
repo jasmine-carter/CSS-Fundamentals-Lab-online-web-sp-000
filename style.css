@@ -37,7 +37,7 @@ h1 {
   text-align: center;
 }
 
-#details p{
+#details div p{
   display: block;
   margin: 0 auto;
   float: left;
