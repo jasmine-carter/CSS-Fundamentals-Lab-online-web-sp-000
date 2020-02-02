@@ -16,7 +16,7 @@ body {
 }
 
 #myFigCaption {
-  content: center;
+  align-content: : center;
 }
 
 #featured-property p {
