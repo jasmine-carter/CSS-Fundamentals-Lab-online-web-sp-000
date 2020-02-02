@@ -16,7 +16,8 @@ body {
   background-color:#d3d3d3;
   float: none;
   position: relative;
-  left: 25%
+  top: 0;
+  left: 0;
 }
 
 #myFigCaption {
