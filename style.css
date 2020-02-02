@@ -12,6 +12,7 @@ body {
 
 #navigation a {
   padding: 10px;
+  margin: 0;
 }
 
 #myFigCaption {
