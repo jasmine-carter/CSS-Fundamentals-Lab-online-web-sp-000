@@ -39,5 +39,7 @@ h1 {
 
 #details div {
   display: block;
+  margin: 0 auto;
   float: left;
+
 }
