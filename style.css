@@ -38,7 +38,7 @@ h1 {
 }
 
 #details div {
-  display: inline-block;
+  display: block;
   margin: 0 auto;
   float: left;
 
