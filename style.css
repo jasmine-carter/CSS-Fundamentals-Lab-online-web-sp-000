@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#navigation a {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#featured-property p {
+  word-wrap: break-word;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  content: center;
+}
+
+h1 {
+  text-align: center;
+}
