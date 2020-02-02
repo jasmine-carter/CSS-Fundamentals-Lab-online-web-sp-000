@@ -10,7 +10,7 @@ body {
   margin-right: auto;
 }
 
-#navigation a {
+.navigation a {
   padding: 10px;
   margin: 0;
   background-color:#d3d3d3;
